@@ -1,3 +1,3 @@
-# My-Ghoul-Theme
+# My-Theme
 
 Я манал кароче
